@@ -1,0 +1,143 @@
+# MTL Exporter v1.0 by Seungwoo Oh at CLO - Virtual Fashion Inc.
+newmtl Material8428
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/hair.jpg
+map_Kd /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/hair.jpg
+newmtl Material8523
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.760000 0.760000 0.760000
+Ns 128.000000
+illum 2
+d 1.000000
+map_Ka /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/eye.jpg
+map_Kd /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/eye.jpg
+newmtl Material8529
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/eyelash.jpg
+map_Kd /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/eyelash.jpg
+newmtl M_Thomas_Sneaker_A_03_Male_Sneaker_02_opencollada_Female_Sneaker_02_opencollada_dummy1FBXASC045fx2SG1SG1SG1SG1SG1SG1SG1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Ka /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/transparency.png
+map_Kd /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/transparency.png
+map_d /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/transparency.png
+newmtl Material8497
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.208000 0.208000 0.208000
+Ns 64.000000
+illum 2
+d 1.000000
+map_Ka /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/face.jpg
+map_Kd /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/face.jpg
+newmtl Material8509
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.208000 0.208000 0.208000
+Ns 64.000000
+illum 2
+d 1.000000
+map_Ka /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/leg.jpg
+map_Kd /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/leg.jpg
+newmtl Material8516
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.760000 0.760000 0.760000
+Ns 128.000000
+illum 2
+d 1.000000
+map_Ka /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/eye.jpg
+map_Kd /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/eye.jpg
+newmtl Material8542
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/tooth.jpg
+map_Kd /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/tooth.jpg
+newmtl Material8536
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+map_Ka /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/eyelash.jpg
+map_Kd /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/eyelash.jpg
+newmtl FABRIC_1_FRONT_11168
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+newmtl M_Thomas_Sneaker_A_03_Male_Sneaker_02_opencollada_Female_Sneaker_02_opencollada_man_sports_shoes_shoesFBXASC045fx2SG1SG1SG1SG1SG1SG1SG1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.029266 0.029266 0.029266
+Ns 5.660000
+illum 2
+d 1.000000
+map_Ka /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/Male_Sneaker_01.jpg
+map_Kd /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/Male_Sneaker_01.jpg
+newmtl FABRIC_1_FRONT_5467
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.075000 0.075000 0.075000
+Ns 28.763239
+illum 2
+d 1.000000
+newmtl M_Thomas_Sneaker_A_03_Male_Sneaker_02_opencollada_Female_Sneaker_02_opencollada_man_sports_shoes_shoesFBXASC045fx2SG1SG1SG1SG1SG1SG1SG1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.029266 0.029266 0.029266
+Ns 5.660000
+illum 2
+d 1.000000
+map_Ka /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/Male_Sneaker_01.jpg
+map_Kd /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/Male_Sneaker_01.jpg
+newmtl M_Thomas_Sneaker_A_03_Male_Sneaker_02_opencollada_Female_Sneaker_02_opencollada_dummy1FBXASC045fx2SG1SG1SG1SG1SG1SG1SG1
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ns 2.000000
+illum 2
+d 1.000000
+map_Ka /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/transparency.png
+map_Kd /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/transparency.png
+map_d /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/transparency.png
+newmtl Material8501
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.208000 0.208000 0.208000
+Ns 64.000000
+illum 2
+d 1.000000
+map_Ka /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/body.jpg
+map_Kd /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/body.jpg
+newmtl Material8505
+Ka 0.257132 0.257132 0.257132
+Kd 1.000000 1.000000 1.000000
+Ks 0.208000 0.208000 0.208000
+Ns 64.000000
+illum 2
+d 1.000000
+map_Ka /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/arm.jpg
+map_Kd /Users/mg/Library/Application Support/CLO/Marvelous Designer 10 Personal/3183/1019/arm.jpg
